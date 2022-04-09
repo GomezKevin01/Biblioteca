@@ -1,7 +1,9 @@
 # Biblioteca
-Desarrollado en JAVA con BlueJ e implementado en NetBeans.
+Desarrollado en JAVA con BlueJ (linea de comando) y NetBeans (interfaz gráfica).
+ 
+El ejecutable del proyecto realizado en NetBeans se encuentra en la siguiente ruta: Biblioteca NetBeans/dist/Biblioteca - Interfaz Gráfica.jar
 
-El repositorio contiene el trabajo realizado en BlueJ donde se podrá consultar el código del sistema y la interfaz gráfica con todas sus funcionalidades. 
+**************************************************************
 
 Muestreo de algunas ventanas de la interfaz grafica(netbeans):
 
